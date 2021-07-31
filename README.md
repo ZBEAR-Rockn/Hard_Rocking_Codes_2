@@ -10,3 +10,6 @@
 
 - Blander's File Impoter is excellent, but sometimes it is a little annoying when you want to simply import several files lightly. I’ve been searching for 3D resources, especially when they didn’t work as a drag-and-drop feature in the viewport, because I wanted to know why they didn’t. Thanks to this, I was able to learn about the implementation perspective of Blander. And now I can understand it.
 - But still, due to the absence of drag and drop function, I felt uncomfortable, and sometimes I searched and found that many people in the world 've been still complaining and bothering. So while making a hard rock music video with Great 3D Solution called Blender, I create and share this second add-on. As usual, I'm not professional, so the code is always trashy and shitty. I hope you understand me because,  it's not so easy for Hard Rocker to code programs.
+
+![blender_FiuoGLLrAM](https://user-images.githubusercontent.com/86638301/127738023-bfe4cfdb-37ab-4247-a7e7-b7529a86ae6a.png)
+![blender_rKqo5AGh6I](https://user-images.githubusercontent.com/86638301/127738026-3be80c0f-3547-465c-b2d4-a1765e3cda26.png)
