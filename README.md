@@ -1,4 +1,4 @@
-# Hard_Rocking_Codes_2
+Hard_Rocking_Codes_2
 
 -    "name": "ZBEAR's Drag N' Drop Importer"
 -    "description": "Drag N' Drop, Import 3D Files to ViewPort"
