@@ -10,8 +10,8 @@ Hard_Rocking_Codes_2
 
 
 - Download .zip or .py and go to blender -> preferences -> Addons -> Install -> Find downloaded .zip or .py and select it -> OK -> Check the Add-on's check-box searched by keyword like 'zb' or 'im' -> Use it 
-- ** NEVER use this add-on on the blender that was opened with 'administrator permission', becuase blender doesn't give us the filepath of your dropped 3d files **
-- If you open the blender in that 'administrator permission mode' on windows, the core of blender system will prevent to get the filepath from your dropping file.
+- ** NEVER use this add-on on the blender that was opened with 'administrator permission', because blender doesn't give us the filepath of your dropped 3d files **
+If you open the blender in that 'administrator permission mode' on windows, the core of blender system will prevent to get the filepath from your dropping file.
 Thus, with that option, this add-on will not work properly.
 
 - 🤘 &nbsp;&nbsp; If this add-on was helpful for you, Please Subscribe ZBEAR's Hard Rock YouTube Channel. Let's Rock 
