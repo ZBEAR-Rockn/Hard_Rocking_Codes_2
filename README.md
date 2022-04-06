@@ -23,6 +23,9 @@ Thus, with that option, this add-on will not work properly.
 
 
 ![blender_FiuoGLLrAM](https://user-images.githubusercontent.com/86638301/127738023-bfe4cfdb-37ab-4247-a7e7-b7529a86ae6a.png)
+
+![zbears_drag_N_drop_additional_image](https://user-images.githubusercontent.com/86638301/162018006-c4437b1d-89dd-44a0-ae93-68e753633618.png)
+
 ![blender_rKqo5AGh6I](https://user-images.githubusercontent.com/86638301/127738467-93553c04-ba84-4119-8412-d91be2037529.png)
 
 
