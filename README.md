@@ -2,7 +2,7 @@ Hard_Rocking_Codes_2
 
 -    "name": "ZBEAR's Drag N' Drop Importer"
 -    "description": "Drag N' Drop, Import 3D Files to ViewPort"
--    "author": "ZBEAR, www.zbear.co.kr, zorzybear@gmail.com"
+-    "author": "ZBEAR, www.zbear-hardrock.com, zorzybear@gmail.com"
 -    Supported File Extensions : obj fbx hdr bvh dae stl kpl svg gltf x3d
 -    "add-on version": (2, 93)  "blender": (2, 93, 0)
 -    "location": "Blender Top Header / Python Console"
@@ -39,6 +39,6 @@ Thus, with that option, this add-on will not work properly.
 🌱🌱 If these works was helpful for you, Please Subscribe ZBEAR's YouTube Channel !!: 
 🌱🌱 https://www.youtube.com/channel/UCQF5-PbA0kEV1BLT_pg0KyQ
 - 
-- www.zbear.co.kr
+- www.zbear-hardrock.com
 
 
